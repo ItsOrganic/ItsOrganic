@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋,
+
+
+![](https://holopin.me/itsorganic)</br>
+<div style="cell-padding:50">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOrganic&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+  <img style="widht:10%;" src="https://github-readme-stats.vercel.app/api?username=ItsOrganic&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+</div>
+
+
+
 
 <!--
 **ItsOrganic/ItsOrganic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
